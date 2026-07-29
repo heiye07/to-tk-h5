@@ -1,0 +1,4 @@
+interface:
+  display_name: "To TK H5"
+  short_description: "Convert or adapt H5 courseware for TalkCloud classroom upload."
+  default_prompt: "Convert this H5 courseware project into a TalkCloud-compatible H5 zip package."
